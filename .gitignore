@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Videos
+videos/
+
+# Other
+.DS_Store
+*.tgz
+*.zip
+*.rar
+*.tar.gz
+*.env
+*.lock
